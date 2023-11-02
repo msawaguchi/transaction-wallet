@@ -1,3 +1,36 @@
+# ☕ Transactions Wallet ☕
+
+<p align="center">
+  <img src="src/assets/transaction-wallet.png">
+</p>
+
+## How to run
+
+Clone the repo:
+```
+git clone https://github.com/msawaguchi/transaction-wallet.git
+```
+Install dependencies:
+
+```
+npm i
+```
+
+Run the fake server: 
+
+```
+npm run dev:server
+```
+
+Run Application:
+
+```
+npm run dev
+```
+
+---
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
